@@ -1,0 +1,14 @@
+.column {
+  width:auto;
+  display:inline-block;
+  vertical-align: top;
+  padding:20px;
+}
+
+body {
+  margin: 75px 5px 30px;
+}
+
+img {
+  padding: 15px;
+}
